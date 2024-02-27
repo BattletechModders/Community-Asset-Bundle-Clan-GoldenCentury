@@ -1,0 +1,79 @@
+Attributions for CAB-Clan-GoldenCentury
+
+This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model).
+
+Colobos/Crackfoxx
+Models:
+Bane
+Stone Rhino
+
+Lt. Shade
+Models:
+Vision Quest
+Pulverizer
+311 Pulverizer
+
+GentlePayload:
+Models:
+Minsk (with import by Transient74)
+
+Ion Raptor
+Models:
+Kingfisher
+Locust IIC
+Glass Spider
+Ion Bane
+
+SmallRobotsInAContainer/Napes
+Models:
+Scylla/Storm Giant
+Conjurer
+
+SirMortimer and Transient
+Model and Import:
+Fox
+Howler
+
+FrostRaptor
+Models:
+Elemental
+
+Piranha Games, Inc.
+Models:
+Gargoyle
+Hellbringer
+Highlander IIC
+HunchbackIIC
+Ice Ferret
+Incubus
+Kit Fox
+Mad Cat
+Mad Dog
+Marauder IIC
+Mist Lynx
+Nova
+Orion IIC
+Rifleman IIC
+Stormcrow
+Summoner
+Supernova
+Vapor Eagle
+Viper
+Warhammer IIC
+Warhawk
+Lupus
+Dasher
+
+Southern Mountain
+Model:
+Naga
+
+Transient74
+Models:
+Stag
+331 Stag
+
+Momma Leli and Transient74
+Models:
+Mercury II
+331 Mercury II
