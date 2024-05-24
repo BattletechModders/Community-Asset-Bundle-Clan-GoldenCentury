@@ -4,7 +4,7 @@ The Community Asset Bundles (CAB) are varied collections of 3D models, Unity ass
 
 ## Contents
 
-*Community Asset Bundle - Clan - GoldenCentury* contains models of Clan BattleMechs across the Golden Century time period. This includes OmniMechs, second line units, and any refits of pure clan heritage. Mechs of Star League ancestry will be found in the base game or as part of the other various CAB repositories.
+*Community Asset Bundle - Clan - GoldenCentury* contains models of Clan BattleMechs across the Golden Century time period (specifically, anything from before the year 3000). This includes OmniMechs, second line units, and any refits of pure clan heritage. Mechs of Star League ancestry will be found in the base game or as part of the other various CAB repositories.
 
 The list of available units changes over time; look in /assetbundles/ directory for a comprehensive list. 
 
