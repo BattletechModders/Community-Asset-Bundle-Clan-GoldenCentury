@@ -23,6 +23,7 @@ Kingfisher
 Locust IIC
 Glass Spider
 Ion Bane
+Woodsman
 
 SmallRobotsInAContainer/Napes
 Models:

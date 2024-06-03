@@ -1,0 +1,117 @@
+{
+    "ID" : "hardpointdatadef_woodsman",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_woodsman_leftarm_laser_eh1",
+			"chrprfweap_woodsman_leftarm_gauss_bh1",
+			"chrprfweap_woodsman_leftarm_lrm5_mh1",
+			"chrprfweap_woodsman_leftarm_lrm10_mh1",
+			"chrprfweap_woodsman_leftarm_lrm15_mh1"
+			"chrprfweap_woodsman_leftarm_lrm20_mh1",
+			"chrprfweap_woodsman_leftarm_srm2_mh1",
+			"chrprfweap_woodsman_leftarm_srm4_mh1",
+			"chrprfweap_woodsman_leftarm_srm6_mh1",
+			"chrprfweap_woodsman_leftarm_uac5_bh1"
+			],
+			[
+			"chrprfweap_woodsman_leftarm_laser_eh2",
+			"chrprfweap_woodsman_leftarm_ppc_eh2"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_woodsman_lefttorso_laser_eh1"
+			],
+			[
+			"chrprfweap_woodsman_lefttorso_lrm5_mh2",
+			"chrprfweap_woodsman_lefttorso_lrm10_mh2",
+			"chrprfweap_woodsman_lefttorso_lrm15_mh2",
+			"chrprfweap_woodsman_lefttorso_lrm20_mh2"
+			],
+			[
+			"chrprfweap_woodsman_lefttorso_srm2_mh3",
+			"chrprfweap_woodsman_lefttorso_srm4_mh3",
+			"chrprfweap_woodsman_lefttorso_srm6_mh3"
+			],
+			[
+			"chrprfweap_woodsman_lefttorso_srm2_mh4",
+			"chrprfweap_woodsman_lefttorso_srm4_mh4",
+			"chrprfweap_woodsman_lefttorso_srm6_mh4"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_woodsman_rightarm_laser_eh1",
+			"chrprfweap_woodsman_rightarm_gauss_bh1",
+			"chrprfweap_woodsman_rightarm_lrm5_mh1",
+			"chrprfweap_woodsman_rightarm_lrm10_mh1",
+			"chrprfweap_woodsman_rightarm_lrm15_mh1"
+			"chrprfweap_woodsman_rightarm_lrm20_mh1",
+			"chrprfweap_woodsman_rightarm_uac5_bh1"
+			],
+			[
+			"chrprfweap_woodsman_rightarm_laser_eh2",
+			"chrprfweap_woodsman_rightarm_ppc_eh2"
+			]
+			],
+            "blanks" : [],               
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_woodsman_righttorso_laser_eh1"
+			],
+			[
+			"chrprfweap_woodsman_righttorso_lrm5_mh2",
+			"chrprfweap_woodsman_righttorso_lrm10_mh2",
+			"chrprfweap_woodsman_righttorso_lrm15_mh2",
+			"chrprfweap_woodsman_righttorso_lrm20_mh2"
+			],
+			[
+			"chrprfweap_woodsman_righttorso_srm2_mh3",
+			"chrprfweap_woodsman_righttorso_srm4_mh3",
+			"chrprfweap_woodsman_righttorso_srm6_mh3"
+			],
+			[
+			"chrprfweap_woodsman_righttorso_srm2_mh4",
+			"chrprfweap_woodsman_righttorso_srm4_mh4",
+			"chrprfweap_woodsman_righttorso_srm6_mh4"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : []
+        },
+		{
+			"location": "head",
+			"weapons": [],
+			"blanks": [],
+			"mountingPoints": []
+		}
+    ]
+	
+}
