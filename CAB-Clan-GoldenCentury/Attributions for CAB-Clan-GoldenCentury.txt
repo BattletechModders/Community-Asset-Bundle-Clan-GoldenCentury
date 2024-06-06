@@ -24,6 +24,7 @@ Locust IIC
 Glass Spider
 Ion Bane
 Woodsman
+Ion Naga
 
 SmallRobotsInAContainer/Napes
 Models:
