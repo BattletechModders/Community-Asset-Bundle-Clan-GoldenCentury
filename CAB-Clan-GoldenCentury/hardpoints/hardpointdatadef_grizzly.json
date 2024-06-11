@@ -5,10 +5,10 @@
             "location" : "leftarm",
             "weapons" : [
 			[
-			"chrprfweap_grizzly_leftarm_laser_eh1",
+			"chrprfweap_grizzly_leftarm_laser_eh1"
 			],
 			[
-			"chrprfweap_grizzly_leftarm_laser_eh2",
+			"chrprfweap_grizzly_leftarm_laser_eh2"
 			]
 			],
             "blanks" : [],
