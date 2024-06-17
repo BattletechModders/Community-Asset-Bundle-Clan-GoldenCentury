@@ -2,6 +2,10 @@ Changelog for CAB-Clan-GoldenCentury
 
 -----------------------------------------------------
 
+1.4
+
+Added the Bowman
+
 1.3
 
 Added the Ion Naga (Woodsman-based)

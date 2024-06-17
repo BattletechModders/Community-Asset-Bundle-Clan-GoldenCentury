@@ -25,6 +25,7 @@ Glass Spider
 Ion Bane
 Woodsman
 Ion Naga
+Bowman
 
 SmallRobotsInAContainer/Napes
 Models:

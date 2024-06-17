@@ -2246,7 +2246,16 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionnaga/chrprfweap_ionnaga_righttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_ionnagabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionnaga/chrprfweap_ionnaga_righttorso_srm2_mh4.prefab", "AssetBundleName": "chrprfmech_ionnagabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionnaga/chrprfweap_ionnaga_righttorso_srm4_mh4.prefab", "AssetBundleName": "chrprfmech_ionnagabase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionnaga/chrprfweap_ionnaga_righttorso_srm6_mh4.prefab", "AssetBundleName": "chrprfmech_ionnagabase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionnaga/chrprfweap_ionnaga_righttorso_srm6_mh4.prefab", "AssetBundleName": "chrprfmech_ionnagabase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/bowman/chrPrfComp_bowman_simgame.prefab", "AssetBundleName": "chrprfmech_bowmanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_bowmanbase-001.prefab", "AssetBundleName": "chrprfmech_bowmanbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/bowman/chrPrfComp_bowman_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_bowmanbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bowman/chrprfweap_bowman_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bowmanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bowman/chrprfweap_bowman_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_bowmanbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bowman/chrprfweap_bowman_leftarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_bowmanbase-001" }
 	
     ]
 }
