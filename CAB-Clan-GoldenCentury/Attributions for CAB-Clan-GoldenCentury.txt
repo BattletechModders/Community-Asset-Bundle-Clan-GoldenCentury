@@ -26,6 +26,7 @@ Ion Bane
 Woodsman
 Ion Naga
 Bowman
+Glass Spider Update
 
 SmallRobotsInAContainer/Napes
 Models:

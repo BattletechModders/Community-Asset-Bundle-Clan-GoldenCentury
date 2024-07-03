@@ -2255,7 +2255,14 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bowman/chrprfweap_bowman_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bowmanbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bowman/chrprfweap_bowman_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_bowmanbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bowman/chrprfweap_bowman_leftarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_bowmanbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bowman/chrprfweap_bowman_leftarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_bowmanbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/glassspider/chrPrfComp_glassspider_simgame.prefab", "AssetBundleName": "chrprfmech_glassspiderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_glassspiderbase-001.prefab", "AssetBundleName": "chrprfmech_glassspiderbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/glassspider/chrPrfComp_glassspider_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_glassspiderbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/glassspider/chrprfweap_glassspider_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_glassspiderbase-001" }
 	
     ]
 }
