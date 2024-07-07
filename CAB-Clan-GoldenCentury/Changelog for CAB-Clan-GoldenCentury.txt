@@ -2,6 +2,10 @@ Changelog for CAB-Clan-GoldenCentury
 
 -----------------------------------------------------
 
+1.6
+
+Added the MWO Stone Rhino
+
 1.5
 
 Added the Glass Spider Update (glassspider as opposed to the old gspider)
