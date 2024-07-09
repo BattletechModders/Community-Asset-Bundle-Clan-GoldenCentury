@@ -2292,10 +2292,8 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_rightarm_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_lefttorso_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_lefttorso_blank_mh4.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_lefttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_lefttorso_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_lefttorso_lrm5_mh3.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
@@ -2311,10 +2309,7 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_lefttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_lrm5_mh2.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_lrm5_mh3.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_lrm10_mh2.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
@@ -2323,7 +2318,16 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_lrm15_mh3.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_lrm20_mh2.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_ppc_eh3.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_centertorso_laser_eh6.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_head_laser_eh6.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_ac10_bh5.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_righttorso_laser_eh5.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_lefttorso_ac10_bh5.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mwostonerhino/chrprfweap_mwostonerhino_lefttorso_laser_eh5.prefab", "AssetBundleName": "chrprfmech_mwostonerhinobase-001" }
 	
     ]
 }
