@@ -1,11 +1,11 @@
 {
-    "ID" : "hardpointdatadef_replaceme",
+    "ID" : "hardpointdatadef_glassspider",
     "HardpointData" : [
         {
             "location" : "leftarm",
             "weapons" : [
 			[
-			"chrprfweap_replaceme_leftarm_laser_eh1"
+			"chrprfweap_glassspider_leftarm_laser_eh1"
 			]
 			],
             "blanks" : [],
