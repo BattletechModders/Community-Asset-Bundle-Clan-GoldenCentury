@@ -69,6 +69,7 @@ Warhawk
 Lupus
 Dasher
 MWO Stone Rhino
+Shadow Hawk IIC
 
 Southern Mountain
 Model:
