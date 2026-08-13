@@ -4,28 +4,40 @@
         {
             "location" : "leftarm",
             "weapons" : [
-			[
-			"chrprfweap_glassspider_leftarm_laser_eh1"
-			]
+                [
+                    "chrprfweap_glassspider_leftarm_laser_eh1"
+                ]
 			],
             "blanks" : [],
             "mountingPoints" : []
         },
         {
             "location" : "lefttorso",
-            "weapons" : [],
+            "weapons" : [
+                [
+                    "chrprfweap_glassspider_lefttorso_laser_eh1"
+                ]
+            ],
             "blanks" : [],
             "mountingPoints" : []
         },
         {
             "location" : "rightarm",
-            "weapons" : [],
+            "weapons" : [
+                [
+                    "chrprfweap_glassspider_rightarm_laser_eh1"
+                ]
+            ],
             "blanks" : [],               
             "mountingPoints" : []
         },
         {
             "location" : "righttorso",
-            "weapons" : [],
+            "weapons" : [
+                [
+                    "chrprfweap_glassspider_righttorso_laser_eh1"
+                ]
+            ],
             "blanks" : [],
             "mountingPoints" : []
         },
